@@ -1,2 +1,2 @@
-# proj-python-snippets
+# Python Snippets
 Python code snippet for my Jupyter Notebook
